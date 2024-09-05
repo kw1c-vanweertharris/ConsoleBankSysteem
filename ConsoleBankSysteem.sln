@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleBankSysteem", "ConsoleBankSysteem\ConsoleBankSysteem.csproj", "{5D223DD6-C7E1-44B3-B9FC-7324969FE45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D223DD6-C7E1-44B3-B9FC-7324969FE45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D223DD6-C7E1-44B3-B9FC-7324969FE45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D223DD6-C7E1-44B3-B9FC-7324969FE45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D223DD6-C7E1-44B3-B9FC-7324969FE45F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44DEEC05-193A-4F00-B7AB-22B9DCCE83AA}
+	EndGlobalSection
+EndGlobal
